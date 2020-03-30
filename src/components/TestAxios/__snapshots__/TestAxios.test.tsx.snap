@@ -1,0 +1,16 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<TestAxios/> matches the snapshot. 1`] = `
+<DocumentFragment>
+  <button
+    data-testid="fetch-data"
+  >
+    Load Data
+  </button>
+  <h1
+    data-testid="loading"
+  >
+    Loading...
+  </h1>
+</DocumentFragment>
+`;
